@@ -19,5 +19,12 @@ cout<<endl;
     cout<<"Hello world"<<endl<<"Hi Everyone";
     //we can write like this too
 
-    
+    cout<<endl;
+    cout<<endl;
+
+    cout<<4+3;
+    cout<<endl;
+    cout<<"4+3";
+//here whene i printed 4+3 without the "" then it performed the calculation but when i did put it with the symbol it did not cause it considered it as a text.
+
 }
